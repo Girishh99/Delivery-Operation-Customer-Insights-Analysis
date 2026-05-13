@@ -204,21 +204,6 @@ The project includes:
 
 ---
 
-# Repository Structure
-
-```text
-Freshco-Delivery-Operations-Analysis/
-│
-├── Dataset/
-├── Dashboard/
-├── Screenshots/
-├── Project_Report/
-├── README.md
-└── Freshco_Analysis.xlsx
-```
-
----
-
 # Skills Demonstrated
 
 * Data Cleaning
